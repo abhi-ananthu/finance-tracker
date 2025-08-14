@@ -1,0 +1,4 @@
+project_pack/
+__pycache__/
+finance_csv_generator.py
+playground.ipynb
