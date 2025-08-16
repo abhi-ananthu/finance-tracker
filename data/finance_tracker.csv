@@ -1,0 +1,201 @@
+transaction_id,date,description,category,amount,payment_method,account,tags
+1,2024-08-18,Cash Back Source,Cash Back,725.91,Check,Savings,
+2,2024-08-19,Gaming,Entertainment,-36.63,Mobile Payment,Credit Card 1,recurring
+3,2024-08-20,Internet Vendor,Internet,-100.96,Cash,Savings,
+4,2024-08-23,Car Repair,Transportation,-87.59,Bank Transfer,Credit Card 2,recurring
+5,2024-08-26,Subscriptions Vendor,Subscriptions,-21.79,Mobile Payment,Checking,family
+6,2024-08-28,Home & Garden Vendor,Home & Garden,-44.55,Debit Card,Credit Card 1,family
+7,2024-08-28,Online Business,Side Business,1122.72,PayPal,Checking,discretionary
+8,2024-08-29,Internet Vendor,Internet,-170.99,Bank Transfer,Checking,essential
+9,2024-09-01,Car Rental,Travel,-326.65,Debit Card,Checking,essential
+10,2024-09-01,Home & Garden Vendor,Home & Garden,-175.24,Mobile Payment,Credit Card 2,
+11,2024-09-04,Insurance Vendor,Insurance,-215.38,Credit Card,Credit Card 1,
+12,2024-09-06,Gifts Source,Gifts,573.06,Debit Card,Credit Card 2,
+13,2024-09-08,HOA Fee,Bills & Utilities,-64.22,Credit Card,Savings,
+14,2024-09-11,Pets Vendor,Pets,-91.83,Debit Card,Credit Card 2,discretionary
+15,2024-09-11,Parking Meter,Transportation,-37.94,Credit Card,Checking,family
+16,2024-09-19,Walmart,Groceries,-49.76,Mobile Payment,Credit Card 1,
+17,2024-09-20,Eye Doctor,Healthcare,-367.62,Bank Transfer,Credit Card 2,work-related
+18,2024-09-20,Costco,Groceries,-39.72,Cash,Checking,work-related
+19,2024-09-21,Travel Insurance,Travel,-434.27,Mobile Payment,Credit Card 1,
+20,2024-09-21,Bond Interest,Investment Returns,459.19,PayPal,Savings,essential
+21,2024-09-24,Refund Source,Refund,765.6,Check,Credit Card 2,discretionary
+22,2024-09-24,Insurance Vendor,Insurance,-233.63,PayPal,Credit Card 1,
+23,2024-09-24,Home & Garden Vendor,Home & Garden,-187.59,Debit Card,Credit Card 1,work-related
+24,2024-09-26,Trash Service,Bills & Utilities,-59.79,Bank Transfer,Savings,family
+25,2024-09-29,Pizza Hut,Food & Dining,-79.97,PayPal,Checking,work-related
+26,2024-10-01,Home & Garden Vendor,Home & Garden,-136.37,Cash,Savings,recurring
+27,2024-10-02,Employer XYZ,Salary,2926.8,Credit Card,Credit Card 1,recurring
+28,2024-10-03,Concert Tickets,Entertainment,-26.63,Credit Card,Checking,family
+29,2024-10-03,Starbucks,Food & Dining,-77.67,Debit Card,Credit Card 2,essential
+30,2024-10-05,Pharmacy,Healthcare,-111.54,Mobile Payment,Checking,work-related
+31,2024-10-06,Bonus Source,Bonus,1117.47,Bank Transfer,Credit Card 1,recurring
+32,2024-10-09,Pizza Hut,Food & Dining,-14.89,Mobile Payment,Savings,discretionary
+33,2024-10-11,Internet Vendor,Internet,-95.17,Cash,Checking,essential
+34,2024-10-12,Gifts Source,Gifts,183.93,Cash,Checking,
+35,2024-10-12,Investment Account,Investment Returns,254.26,Debit Card,Credit Card 1,work-related
+36,2024-10-13,Insurance Vendor,Insurance,-201.58,Mobile Payment,Savings,discretionary
+37,2024-10-16,Personal Care Vendor,Personal Care,-142.95,Cash,Credit Card 2,essential
+38,2024-10-17,Home & Garden Vendor,Home & Garden,-82.37,PayPal,Credit Card 1,essential
+39,2024-10-18,Pets Vendor,Pets,-180.81,Mobile Payment,Checking,family
+40,2024-10-18,Subscriptions Vendor,Subscriptions,-36.45,Debit Card,Credit Card 1,essential
+41,2024-10-20,Personal Care Vendor,Personal Care,-72.08,Bank Transfer,Savings,work-related
+42,2024-10-20,Pets Vendor,Pets,-110.86,Cash,Savings,family
+43,2024-10-21,Bonus Source,Bonus,1925.06,Bank Transfer,Credit Card 2,discretionary
+44,2024-10-23,Uber,Transportation,-78.02,Debit Card,Savings,recurring
+45,2024-10-24,Local Grocery,Groceries,-59.57,Credit Card,Checking,work-related
+46,2024-10-25,HOA Fee,Bills & Utilities,-248.16,Check,Credit Card 1,essential
+47,2024-10-28,McDonald's,Food & Dining,-71.95,Mobile Payment,Credit Card 2,work-related
+48,2024-10-30,Amazon,Shopping,-144.22,Bank Transfer,Credit Card 2,family
+49,2024-10-31,Internet Vendor,Internet,-137.2,PayPal,Savings,essential
+50,2024-10-31,Education Vendor,Education,-127.02,PayPal,Credit Card 2,essential
+51,2024-11-01,Consulting Gig,Freelance,1283.8,Bank Transfer,Credit Card 1,
+52,2024-11-01,Side Hustle,Side Business,1323.99,Bank Transfer,Checking,work-related
+53,2024-11-01,Whole Foods,Groceries,-107.62,Bank Transfer,Credit Card 2,essential
+54,2024-11-03,Netflix,Entertainment,-24.07,Mobile Payment,Credit Card 2,work-related
+55,2024-11-12,Cash Back Source,Cash Back,87.66,Debit Card,Checking,essential
+56,2024-11-13,Concert Tickets,Entertainment,-44.56,Mobile Payment,Savings,work-related
+57,2024-11-18,Internet Vendor,Internet,-128.83,Mobile Payment,Checking,work-related
+58,2024-11-19,Costco,Groceries,-95.29,Credit Card,Credit Card 1,
+59,2024-11-20,Trash Service,Bills & Utilities,-97.89,Cash,Credit Card 1,
+60,2024-11-21,Pets Vendor,Pets,-44.09,Credit Card,Savings,family
+61,2024-11-23,Car Rental,Travel,-77.89,Mobile Payment,Checking,discretionary
+62,2024-11-24,Cash Back Source,Cash Back,312.24,Mobile Payment,Savings,work-related
+63,2024-11-29,Gaming,Entertainment,-22.85,Mobile Payment,Credit Card 2,discretionary
+64,2024-11-30,Home & Garden Vendor,Home & Garden,-154.63,Bank Transfer,Credit Card 1,essential
+65,2024-12-05,Phone Vendor,Phone,-182.78,Cash,Credit Card 2,
+66,2024-12-06,Target,Groceries,-118.05,Debit Card,Checking,discretionary
+67,2024-12-07,Starbucks,Food & Dining,-49.12,PayPal,Savings,
+68,2024-12-14,Travel Insurance,Travel,-432.33,Credit Card,Credit Card 1,recurring
+69,2024-12-15,Internet Vendor,Internet,-115.48,Debit Card,Credit Card 2,recurring
+70,2024-12-16,Part-time Work,Side Business,289.19,Debit Card,Savings,work-related
+71,2024-12-21,Cash Back Source,Cash Back,135.57,Credit Card,Credit Card 2,essential
+72,2024-12-21,Cash Back Source,Cash Back,64.54,PayPal,Checking,family
+73,2024-12-26,Phone Vendor,Phone,-114.82,Bank Transfer,Checking,
+74,2024-12-27,Personal Care Vendor,Personal Care,-96.87,Mobile Payment,Checking,
+75,2024-12-28,Personal Care Vendor,Personal Care,-93.24,Check,Credit Card 2,
+76,2024-12-28,Gas Station,Transportation,-64.82,PayPal,Savings,work-related
+77,2025-01-02,Insurance Vendor,Insurance,-134.97,Mobile Payment,Credit Card 1,
+78,2025-01-02,Internet Vendor,Internet,-129.08,Cash,Credit Card 2,
+79,2025-01-03,Home & Garden Vendor,Home & Garden,-29.42,Bank Transfer,Checking,family
+80,2025-01-05,Internet Vendor,Internet,-174.4,Bank Transfer,Credit Card 2,family
+81,2025-01-05,Phone Vendor,Phone,-23.52,Debit Card,Credit Card 1,recurring
+82,2025-01-07,Car Repair,Transportation,-65.35,Bank Transfer,Credit Card 2,discretionary
+83,2025-01-09,Local Restaurant,Food & Dining,-42.3,Debit Card,Savings,essential
+84,2025-01-10,Education Vendor,Education,-88.94,Bank Transfer,Credit Card 2,work-related
+85,2025-01-14,Insurance Vendor,Insurance,-131.55,Check,Credit Card 1,discretionary
+86,2025-01-15,Subscriptions Vendor,Subscriptions,-43.84,Credit Card,Savings,essential
+87,2025-01-18,Hotel,Travel,-442.66,Credit Card,Credit Card 2,
+88,2025-01-19,Doctor Visit,Healthcare,-99.26,Debit Card,Credit Card 2,discretionary
+89,2025-01-19,Airfare,Travel,-186.54,Credit Card,Checking,discretionary
+90,2025-01-20,Subway,Food & Dining,-74.67,Check,Credit Card 2,essential
+91,2025-01-22,Public Transit,Transportation,-52.2,Mobile Payment,Credit Card 1,discretionary
+92,2025-01-26,Education Vendor,Education,-19.96,Check,Credit Card 2,discretionary
+93,2025-01-29,Starbucks,Food & Dining,-25.8,Debit Card,Credit Card 1,work-related
+94,2025-01-31,Insurance Vendor,Insurance,-250.56,Mobile Payment,Savings,family
+95,2025-01-31,Subscriptions Vendor,Subscriptions,-27.12,Cash,Savings,recurring
+96,2025-02-03,Client A,Freelance,523.25,PayPal,Credit Card 2,work-related
+97,2025-02-04,Education Vendor,Education,-115.6,PayPal,Savings,
+98,2025-02-04,Insurance Vendor,Insurance,-89.54,Credit Card,Credit Card 1,discretionary
+99,2025-02-06,Costco,Groceries,-114.87,Credit Card,Credit Card 2,
+100,2025-02-08,Side Hustle,Side Business,680.39,Bank Transfer,Credit Card 1,discretionary
+101,2025-02-09,Subscriptions Vendor,Subscriptions,-36.54,Mobile Payment,Credit Card 1,
+102,2025-02-15,Gaming,Entertainment,-18.22,Bank Transfer,Checking,essential
+103,2025-02-20,Vacation Expense,Travel,-251.59,PayPal,Credit Card 1,discretionary
+104,2025-02-20,Refund Source,Refund,356.58,Cash,Checking,recurring
+105,2025-02-21,Local Restaurant,Food & Dining,-49.92,Credit Card,Checking,family
+106,2025-02-24,Phone Vendor,Phone,-66.5,PayPal,Credit Card 2,family
+107,2025-02-24,Pets Vendor,Pets,-40.9,Cash,Savings,recurring
+108,2025-02-24,Pets Vendor,Pets,-66.74,Bank Transfer,Credit Card 2,discretionary
+109,2025-03-01,Subscriptions Vendor,Subscriptions,-38.42,Mobile Payment,Credit Card 2,work-related
+110,2025-03-01,Phone Vendor,Phone,-64.2,Check,Credit Card 2,work-related
+111,2025-03-04,Employer XYZ,Salary,2023.06,Debit Card,Savings,family
+112,2025-03-04,Concert Tickets,Entertainment,-27.1,PayPal,Credit Card 2,recurring
+113,2025-03-04,Local Grocery,Groceries,-138.38,Mobile Payment,Credit Card 1,work-related
+114,2025-03-07,Employer XYZ,Salary,3364.48,Cash,Credit Card 1,
+115,2025-03-07,Medical Test,Healthcare,-459.17,Check,Credit Card 1,work-related
+116,2025-03-08,Main Job,Salary,3972.98,Bank Transfer,Credit Card 2,
+117,2025-03-10,Netflix,Entertainment,-27.38,Check,Savings,essential
+118,2025-03-12,Walmart,Groceries,-107.54,Credit Card,Credit Card 2,recurring
+119,2025-03-16,Gas Bill,Bills & Utilities,-142.51,Mobile Payment,Checking,
+120,2025-03-17,Project Work,Freelance,763.58,Check,Credit Card 2,recurring
+121,2025-03-18,Subscriptions Vendor,Subscriptions,-24.03,Bank Transfer,Credit Card 1,discretionary
+122,2025-03-18,Main Job,Salary,4905.2,Cash,Credit Card 1,
+123,2025-03-18,Phone Vendor,Phone,-57.46,Credit Card,Credit Card 2,discretionary
+124,2025-03-22,Internet Vendor,Internet,-110.12,Cash,Checking,work-related
+125,2025-03-22,Home & Garden Vendor,Home & Garden,-128.4,Check,Checking,recurring
+126,2025-03-25,Gifts Source,Gifts,291.73,Debit Card,Checking,family
+127,2025-03-28,Pharmacy,Healthcare,-270.25,Check,Checking,family
+128,2025-03-28,Gifts Source,Gifts,529.2,Bank Transfer,Credit Card 1,essential
+129,2025-03-30,Cash Back Source,Cash Back,387.55,Mobile Payment,Savings,recurring
+130,2025-04-01,Internet Vendor,Internet,-65.34,Debit Card,Credit Card 1,recurring
+131,2025-04-01,Phone Vendor,Phone,-118.27,Check,Credit Card 2,family
+132,2025-04-02,Refund Source,Refund,304.2,Bank Transfer,Credit Card 2,essential
+133,2025-04-03,Medical Test,Healthcare,-331.6,Credit Card,Checking,family
+134,2025-04-04,Subscriptions Vendor,Subscriptions,-16.01,PayPal,Savings,
+135,2025-04-05,Movie Theater,Entertainment,-11.08,PayPal,Credit Card 1,work-related
+136,2025-04-07,Hotel,Travel,-351.77,Debit Card,Checking,family
+137,2025-04-11,Education Vendor,Education,-74.33,Check,Credit Card 2,recurring
+138,2025-04-11,Phone Vendor,Phone,-184.05,Debit Card,Credit Card 2,recurring
+139,2025-04-13,Part-time Work,Side Business,322.62,Bank Transfer,Credit Card 1,essential
+140,2025-04-13,Uber,Transportation,-18.39,Check,Credit Card 1,work-related
+141,2025-04-13,Subscriptions Vendor,Subscriptions,-24.22,Check,Savings,essential
+142,2025-04-17,Gifts Source,Gifts,609.92,Cash,Checking,essential
+143,2025-04-17,Subscriptions Vendor,Subscriptions,-45.9,Debit Card,Credit Card 2,
+144,2025-04-22,Cash Back Source,Cash Back,310.97,Cash,Credit Card 1,recurring
+145,2025-04-28,Costco,Groceries,-114.54,Cash,Credit Card 2,recurring
+146,2025-04-29,Netflix,Entertainment,-41.31,Mobile Payment,Savings,essential
+147,2025-04-29,Medical Test,Healthcare,-366.53,Bank Transfer,Savings,essential
+148,2025-05-02,Pets Vendor,Pets,-76.71,Mobile Payment,Savings,work-related
+149,2025-05-04,Home & Garden Vendor,Home & Garden,-27.74,Mobile Payment,Savings,recurring
+150,2025-05-04,Internet Vendor,Internet,-50.7,Debit Card,Credit Card 2,work-related
+151,2025-05-10,Employer XYZ,Salary,4167.33,Mobile Payment,Savings,
+152,2025-05-13,Department Store,Shopping,-135.35,Debit Card,Credit Card 1,discretionary
+153,2025-05-13,Pets Vendor,Pets,-23.69,Mobile Payment,Checking,essential
+154,2025-05-16,Phone Vendor,Phone,-80.49,Check,Credit Card 2,discretionary
+155,2025-05-18,Local Grocery,Groceries,-46.89,Bank Transfer,Checking,discretionary
+156,2025-05-20,Car Rental,Travel,-259.47,Bank Transfer,Credit Card 2,
+157,2025-05-20,Insurance Vendor,Insurance,-57.95,Credit Card,Savings,work-related
+158,2025-05-21,Gifts Source,Gifts,265.19,Bank Transfer,Credit Card 1,essential
+159,2025-05-22,Phone Vendor,Phone,-61.47,Cash,Savings,
+160,2025-05-23,Pets Vendor,Pets,-119.7,Check,Checking,
+161,2025-05-24,Main Job,Salary,3349.2,Check,Savings,family
+162,2025-05-25,Education Vendor,Education,-119.08,Mobile Payment,Credit Card 2,discretionary
+163,2025-05-25,Home & Garden Vendor,Home & Garden,-137.3,Bank Transfer,Credit Card 1,recurring
+164,2025-05-28,Insurance Vendor,Insurance,-274.46,Bank Transfer,Credit Card 1,work-related
+165,2025-06-01,Movie Theater,Entertainment,-47.8,Check,Savings,family
+166,2025-06-02,Personal Care Vendor,Personal Care,-198.61,Cash,Checking,recurring
+167,2025-06-05,Walmart,Groceries,-112.14,PayPal,Savings,family
+168,2025-06-05,Best Buy,Shopping,-134.78,Mobile Payment,Checking,family
+169,2025-06-11,Starbucks,Food & Dining,-61.91,Check,Credit Card 2,family
+170,2025-06-11,Medical Test,Healthcare,-229.82,Debit Card,Savings,family
+171,2025-06-14,Vacation Expense,Travel,-219.77,Debit Card,Checking,discretionary
+172,2025-06-15,Home & Garden Vendor,Home & Garden,-92.91,PayPal,Checking,essential
+173,2025-06-19,Online Store,Shopping,-191.97,Credit Card,Credit Card 1,recurring
+174,2025-06-20,Pharmacy,Healthcare,-466.59,Check,Credit Card 1,essential
+175,2025-06-20,Part-time Work,Side Business,1027.6,Cash,Savings,recurring
+176,2025-06-20,Education Vendor,Education,-50.96,PayPal,Checking,family
+177,2025-06-28,Subscriptions Vendor,Subscriptions,-32.86,Check,Checking,
+178,2025-06-28,Pizza Hut,Food & Dining,-50.67,Credit Card,Savings,family
+179,2025-07-01,Phone Vendor,Phone,-139.42,PayPal,Credit Card 1,recurring
+180,2025-07-04,Education Vendor,Education,-18.38,Cash,Savings,recurring
+181,2025-07-07,Concert Tickets,Entertainment,-25.01,Debit Card,Credit Card 2,recurring
+182,2025-07-07,Education Vendor,Education,-56.53,Debit Card,Checking,recurring
+183,2025-07-09,Phone Vendor,Phone,-44.53,Cash,Credit Card 2,family
+184,2025-07-14,Personal Care Vendor,Personal Care,-187.03,Credit Card,Savings,family
+185,2025-07-15,Phone Vendor,Phone,-37.15,Debit Card,Savings,recurring
+186,2025-07-16,Amazon,Shopping,-150.78,Credit Card,Savings,essential
+187,2025-07-18,Personal Care Vendor,Personal Care,-197.19,Mobile Payment,Savings,
+188,2025-07-18,Hotel,Travel,-111.69,Debit Card,Checking,essential
+189,2025-07-19,Internet Vendor,Internet,-115.16,Cash,Credit Card 2,recurring
+190,2025-07-23,Phone Vendor,Phone,-180.93,Bank Transfer,Checking,work-related
+191,2025-07-29,Clothing Store,Shopping,-54.12,Bank Transfer,Credit Card 1,recurring
+192,2025-07-29,HOA Fee,Bills & Utilities,-93.77,Mobile Payment,Credit Card 2,discretionary
+193,2025-07-31,Pets Vendor,Pets,-21.5,Cash,Savings,
+194,2025-07-31,Education Vendor,Education,-106.03,Cash,Checking,
+195,2025-08-02,Phone Vendor,Phone,-94.49,Debit Card,Credit Card 1,
+196,2025-08-07,Pets Vendor,Pets,-41.88,PayPal,Checking,work-related
+197,2025-08-08,Home & Garden Vendor,Home & Garden,-76.69,Debit Card,Savings,discretionary
+198,2025-08-13,Project Work,Freelance,1369.05,PayPal,Savings,
+199,2025-08-13,Starbucks,Food & Dining,-11.98,Bank Transfer,Savings,family
+200,2025-08-14,Education Vendor,Education,-73.81,PayPal,Checking,work-related

@@ -46,12 +46,21 @@ def upload_csv():
 def render_home_page():
     return render_template('index.html')
 
+
+@app.route('/get-all-files', methods=['GET'])
+def get_all_files():
+    if request.method == 'GET':
+        entries = os.listdir('data')
+
+        files = [et for et in entries]
+
+        return { 'files': files }
+    
 @app.route('/statistics', methods=['POST'])
 def compute_statistics():
     if request.method == 'POST':
         req = request.get_json()
         file_name =  req['name']
-
 
         if not file_name:
             return { "error": "filename not found in request"}
@@ -60,12 +69,22 @@ def compute_statistics():
         if os.path.exists(dir_path):
             total_credit = extract_total_credit(path=dir_path)
             total_debit = extract_total_debit(path=dir_path)
+
+            net_total = 0
+            if total_debit > total_credit:
+                net_total = abs(total_debit) - abs(total_credit)
+
+            else:
+
+                net_total = abs(total_credit) - abs(total_debit)
+
             cat_distro = category_wise_dstrn(path=dir_path)
             
             return {
                 "totalCredit": total_credit,
                 "totalDebit": total_debit,
-                "distribution": cat_distro
+                "distribution": cat_distro,
+                "net_balance": net_total,
             }
         else:
             return { "error": "file not found" }

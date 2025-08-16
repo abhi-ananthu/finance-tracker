@@ -20,7 +20,8 @@ def category_wise_dstrn(path: str):
     df = pd.read_csv(path)
     sum_series = df.groupby('category')['amount'].sum()
 
-    return sum_series.to_json()
+
+    return sum_series.to_dict()
 
 def credit_labels(path: str):
     df = pd.read_csv(path)
